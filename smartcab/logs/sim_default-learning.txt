@@ -1,0 +1,34 @@
+/-----------------------------------------
+| State-action rewards from Q-Learning
+\-----------------------------------------
+
+light
+ -- None : 34.31
+ -- forward : 9.23
+ -- right : 47.45
+ -- left : 16.07
+
+oncoming
+ -- None : 34.31
+ -- forward : 9.23
+ -- right : 47.45
+ -- left : 16.07
+
+right
+ -- None : 34.31
+ -- forward : 9.23
+ -- right : 47.45
+ -- left : 16.07
+
+waypoint
+ -- None : 34.31
+ -- forward : 9.23
+ -- right : 47.45
+ -- left : 16.07
+
+left
+ -- None : 34.31
+ -- forward : 9.23
+ -- right : 47.45
+ -- left : 16.07
+
