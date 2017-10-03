@@ -6,6 +6,12 @@ For my MLND capstone project I chose to do the [Kaggle competition](https://www.
 titled "Personalized Medicine: Redefining Cancer Treatment." The competition is about using natural language processing to determine
 which class a piece of text (in this case medical liturature) belongs to. The class represents genetic mutations.
 
+**Training/Testing Data:** Because this is a Kaggle competition I cannot post the training/testing data provided by them to Github. From Kaggle website: "Participants agree to use suitable measures to prevent persons who have not formally agreed to these Competition Rules from gaining access to the Data and agree not to transmit, duplicate, publish, redistribute or otherwise provide or make available the Data to any party not participating in the Competition"
+
+The data can be downloaded from the competition website here:
+
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
 ## Software Requirements
 
 Using Jupyter Notebook version 5.0
