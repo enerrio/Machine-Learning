@@ -18,7 +18,7 @@ keras 2.0.6
 
 matplotlib 2.0.2
 
-numpy 1.12.1
+numpy 1.13.3
 
 pandas 0.20.3
 
@@ -26,7 +26,9 @@ scikit-learn 0.19.0
 
 seaborn 0.8
 
-spacy 1.9.0
+spacy 1.8.2
+
+imbalanced-learn 0.3.0
 
 tensorflow 1.0.0
 
