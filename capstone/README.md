@@ -39,3 +39,7 @@ conda env create -f environment.yml
 To activate environment:
 + Windows: `activate capstone`
 + Mac/Linux: `source activate capstone`
+
+The glove text file (glove.6B.100d.txt) that should be in the "glove" folder is too big to post to github. It can be downloaded at this website:
+
+https://nlp.stanford.edu/projects/glove/
